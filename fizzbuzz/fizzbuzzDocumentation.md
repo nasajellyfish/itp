@@ -1,0 +1,4 @@
+Devan Travers LMSC-261-001
+FizzBuzz HW
+
+This assignment was a bit difficult at first but once I figured it out a lot of things became more clear, especially in regards to loops and overall syntax in javascript. I was unsure of what the order of operations and commands should be at first but I eventually came to the conclusion that a for loop should be used, which increments by +1 at the start of each loop, limited to the range of 1-100. The number should first be tested if it is divisible by both 3 and 5 using an if statement, then two else if statements to filter out numbers that are divisible by just 3 or just 5, and finally, the part which took me the longest to figure out, is that the printing of every other digit comes at the END of the command. Meaning, the final line of code is an else statement that simply prints the number. I did not use any external resources to complete this assignment outside of the notes I took in class.
